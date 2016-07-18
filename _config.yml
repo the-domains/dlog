@@ -1,0 +1,14 @@
+layout_spectrum: 0.49381770309992135
+typography_spectrum: 0.4203600117471069
+color:
+  brandStrength: 0.030507679330185056
+  lightness: 0.07247312529943883
+  saturation: 0.5341187028679997
+  rhythmicContrast: 0.17924114875495434
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: dLog
